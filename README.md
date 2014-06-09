@@ -9,6 +9,6 @@ Required Software
 
 (02) Apache Tomcat
 
-(03) Hsenid sms Api + Simulator
+(03) Hsenid sms Api + Simulator = http://devspace.hsenidmobile.com/#home
 
 
